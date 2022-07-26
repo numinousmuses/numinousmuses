@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @numinousmuses
 - 👀 I’m interested in anything robotics, AI, or natural science
 - 🌱 I’m currently learning computational chemistry/biology
-- 💞️ I’m looking to collaborate on anything deep learning, robotics, or applied CS! Feel to check out my kaggle as well.
+- 💞️ I’m looking to collaborate on anything machine learning, robotics, or IoT! Feel to check out my kaggle as well.
 - 📫 How to reach me: numinousmuses@gmail.com
 
 <!---
