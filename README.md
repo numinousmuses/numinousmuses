@@ -1,4 +1,4 @@
-- 👋 hazzo, I’m Joshua
+- 👋 hazzo, I’m Joshua Okolo
 - 👀 interested in anything robotics, AI, or applied science
 - 🌱 currently learning computational chemistry/biology
 - 💞️ looking to collaborate on anything machine learning, robotics, or IoT! Feel to check out my kaggle as well.
