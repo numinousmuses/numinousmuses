@@ -1,6 +1,7 @@
 ![GH SLide 1](https://user-images.githubusercontent.com/103385201/184730850-cfb74d0b-5bdb-4957-aca6-31462db5aae7.png)
 ![GH Portfolio](https://user-images.githubusercontent.com/103385201/184730870-64c89e70-561a-435f-92a8-dbbb4372e563.png)
 ![GH Portfolio (1)](https://user-images.githubusercontent.com/103385201/184730887-83d9758b-dfce-4405-a835-557529806d6f.png)
+![GH Portfolio (2)](https://user-images.githubusercontent.com/103385201/184731002-df411200-63d4-443b-9253-5246219b19da.png)
 
 
 - 👋 hazzo, I’m Joshua
