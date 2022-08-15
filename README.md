@@ -8,7 +8,9 @@
 - 💞️ looking to collaborate on anything machine learning, robotics, or IoT! Feel to check out my [deepnote](https://deepnote.com/@waterboy), [kaggle](https://www.kaggle.com/joshuaokolo/code), and [dagshub](https://dagshub.com/numinousmuses) as well.
 - 📫 reach me numinousmuses@gmail.com or [linkedin](https://www.linkedin.com/in/joshua-okolo/)
 
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=numinousmuses&show_icons=true&theme=prussian) ![github stats](https://github-readme-stats.vercel.app/api?username=numinousmuses&show_icons=true&theme=prussian)
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=numinousmuses&show_icons=true&theme=radical) 
+
+![github stats](https://github-readme-stats.vercel.app/api?username=numinousmuses&show_icons=true&theme=radical)
 
 <!---
 numinousmuses/numinousmuses is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
