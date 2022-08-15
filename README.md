@@ -1,4 +1,4 @@
-![GH SLide 1](https://user-images.githubusercontent.com/103385201/184730850-cfb74d0b-5bdb-4957-aca6-31462db5aae7.png)
+![GH Portfolio (3)](https://user-images.githubusercontent.com/103385201/184732531-fceeb366-f9ca-453e-a58f-930fee583221.png)
 ![GH Portfolio](https://user-images.githubusercontent.com/103385201/184730870-64c89e70-561a-435f-92a8-dbbb4372e563.png)
 ![GH Portfolio (1)](https://user-images.githubusercontent.com/103385201/184730887-83d9758b-dfce-4405-a835-557529806d6f.png)
 
