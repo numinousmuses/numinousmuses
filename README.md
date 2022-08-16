@@ -84,6 +84,8 @@ link_to_certifications = "https://drive.google.com/drive/folders/174jLW0DQDmCBJW
 
 hobbies = [ "breakdance" , "abstract art" , "making and listening to music" , "learning languages" ]
 
+current_fav_food = "Shawarma"
+
 """
 ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶11_____1¶¶¶¶¶¶¶
@@ -140,8 +142,6 @@ _______________________¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶__________
 """
 
 fav_athletics = [ "Soccer" , "Basketball" , "Track" , "weighted calisthenics"]
-
-current_fav_food = "Shawarma"
 
 """
 ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
