@@ -141,6 +141,7 @@
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
 ```python
 print("About Me")
 spoken_languages = ["English", "Spanish", "French", "Italian", "Japanese"]
