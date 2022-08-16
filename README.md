@@ -105,7 +105,7 @@ current_fav_song = "Lil Uzi - FOR FUN"
 
 Icon Credit to [Github Profilinator](https://profilinator.rishav.dev/)
 
-## Daily random image
+## Daily Random Image
 ![image](https://user-images.githubusercontent.com/103385201/184786194-5776bc97-61cc-40d2-a648-d35a38b6318f.png)
 
 Image credit to [Charles Rondeau](https://pixabay.com/users/charlesrondeau-1458430/)
