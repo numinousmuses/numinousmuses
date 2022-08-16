@@ -2,31 +2,17 @@
 
 - 👋 hazzo, I’m Joshua
 - 👀 interested in anything robotics, AI, or applied science
-- 🌱 currently learning computational chemistry/biology
+- 🌱 currently learning Polygon and Computational Neuroscience
 - 💞️ looking to collaborate on anything machine learning, robotics, or IoT! Feel to check out my [deepnote](https://deepnote.com/@waterboy), [kaggle](https://www.kaggle.com/joshuaokolo/code), and [dagshub](https://dagshub.com/numinousmuses) as well.
 - 📫 reach me numinousmuses@gmail.com or [linkedin](https://www.linkedin.com/in/joshua-okolo/)
+- 🔭 I’m currently working on a Portable Robotic Nurse
+- ❓ Ask me about anything related to Tensorflow, Jupyter, and related technologies
+- ⚡ Fun fact: I am training to be ambidextrous
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
-
-### <div align="center">I'm Joshua, a software developer and robotics enthusiast 🤖</div>  
-  
-
-- 🔭 I’m currently working on a [Search & Rescue Drone](https://github.com/numinousmuses/search-and-rescue-drone)  
-  
-
-- 🌱 I’m currently learning Polygon and Computational Neuroscience  
-  
-
-- ❓ Ask me about anything related to Tensorflow, Jupyter, and related technologies  
-  
-
-- ⚡ Fun fact: I am training to be ambidextrous  
-  
-
-<br/>  
 
 
 ## My Skill Set  
@@ -117,10 +103,6 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=numinousmuses&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
 
 
 
