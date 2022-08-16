@@ -1,4 +1,4 @@
-![GH Portfolio (3)](https://user-images.githubusercontent.com/103385201/184732531-fceeb366-f9ca-453e-a58f-930fee583221.png)
+![GH Portfolio (5)](https://user-images.githubusercontent.com/103385201/184787777-42df00ff-8451-4510-978a-73098ddcdb31.png)
 
 - 👋 hazzo, I’m Joshua
 - 👀 interested in anything robotics, AI, or applied science
