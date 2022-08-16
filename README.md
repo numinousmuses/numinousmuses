@@ -8,7 +8,7 @@
 
 ```python
 spoken_languages = ["English", "Spanish", "French", "Italian", "Japanese"]
-code = ["Python", "C++", "Java", "Javascript", HTML, CSS]
+code = ["Python", "C++", "Java", "Javascript", "HTML", "CSS"]
 tools = ["Tensorflow", "Keras", "Pytorch", "Docker", "Edge Impulse", "Jupyter"]
 interested_subjects = ["Robotics", "Computational Biology", "Biomedical Engineering"]
 current_challenge = "Reproducing 50 research articles as Kaggle  Notebooks"
