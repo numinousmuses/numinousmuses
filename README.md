@@ -102,11 +102,12 @@ current_fav_song = "Lil Uzi - FOR FUN"
 <br/>  
 
 </div>
+Icon Credit to [Github Profilinator](https://profilinator.rishav.dev/)
 
 ## Daily random image
 ![image](https://user-images.githubusercontent.com/103385201/184786194-5776bc97-61cc-40d2-a648-d35a38b6318f.png)
 
-Credit to [Charles Rondeau](https://pixabay.com/users/charlesrondeau-1458430/)
+Image credit to [Charles Rondeau](https://pixabay.com/users/charlesrondeau-1458430/)
 <!---
 numinousmuses/numinousmuses is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
