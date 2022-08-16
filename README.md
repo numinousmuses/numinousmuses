@@ -103,8 +103,8 @@ current_fav_song = "Lil Uzi - FOR FUN"
 
 </div>
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+## Daily random image
+![image](https://user-images.githubusercontent.com/103385201/184786194-5776bc97-61cc-40d2-a648-d35a38b6318f.png)
 
 <!---
 numinousmuses/numinousmuses is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
