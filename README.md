@@ -7,13 +7,17 @@
 - 📫 reach me numinousmuses@gmail.com or [linkedin](https://www.linkedin.com/in/joshua-okolo/)
 
 ```python
+print("About Me")
 spoken_languages = ["English", "Spanish", "French", "Italian", "Japanese"]
 code = ["Python", "C++", "Java", "Javascript", "HTML", "CSS", "Lua"]
 tools = ["Tensorflow", "Keras", "Pytorch", "Docker", "Edge Impulse", "Jupyter"]
 interested_subjects = ["Robotics", "Computational Biology", "Biomedical Engineering"]
 current_challenge = "Reproducing 50 research articles as Kaggle  Notebooks"
 currently_learning = ["Computational Neuroscience", "Engineering", "Immunology"]
-print(currently_learning)
+link_to_certifications = "https://drive.google.com/drive/folders/174jLW0DQDmCBJWWPE8xvHyuS-CKZo7KL"
+current_fav_food = "Shawarma"
+current_fav_album = "Baby Keem - The Melodic Blue"
+current_fav_song = "Lil Uzi - FOR FUN"
 ```
 
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=numinousmuses&show_icons=true&theme=radical) 
