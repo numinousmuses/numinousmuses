@@ -9,6 +9,24 @@
 - ❓ Ask me about anything related to Tensorflow, Jupyter, and related technologies
 - ⚡ Fun fact: I am training to be ambidextrous
 
+```python
+print("About Me")
+spoken_languages = ["English", "Spanish", "French", "Italian", "Japanese"]
+code = ["Python", "C++", "Java", "Javascript", "HTML", "CSS", "Lua"]
+tools = ["Tensorflow", "Keras", "Pytorch", "Docker", "Edge Impulse", "Jupyter"]
+interested_subjects = ["Robotics", "Computational Biology", "Biomedical Engineering"]
+current_challenge = "Reproducing 50 research articles as Kaggle  Notebooks"
+currently_learning = ["Computational Neuroscience", "Engineering", "Immunology"]
+link_to_certifications = "https://drive.google.com/drive/folders/174jLW0DQDmCBJWWPE8xvHyuS-CKZo7KL"
+current_fav_food = "Shawarma"
+current_fav_album = "Baby Keem - The Melodic Blue"
+current_fav_song = "Lil Uzi - FOR FUN"
+```
+
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=numinousmuses&show_icons=true&theme=radical) 
+
+![github stats](https://github-readme-stats.vercel.app/api?username=numinousmuses&show_icons=true&theme=radical)
+
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
@@ -85,64 +103,10 @@
 
 <br/>  
 
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/numinousmuses" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/joshuaokolo" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.kaggle.com/joshuaokolo" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-
-
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
+</div>
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
-```python
-print("About Me")
-spoken_languages = ["English", "Spanish", "French", "Italian", "Japanese"]
-code = ["Python", "C++", "Java", "Javascript", "HTML", "CSS", "Lua"]
-tools = ["Tensorflow", "Keras", "Pytorch", "Docker", "Edge Impulse", "Jupyter"]
-interested_subjects = ["Robotics", "Computational Biology", "Biomedical Engineering"]
-current_challenge = "Reproducing 50 research articles as Kaggle  Notebooks"
-currently_learning = ["Computational Neuroscience", "Engineering", "Immunology"]
-link_to_certifications = "https://drive.google.com/drive/folders/174jLW0DQDmCBJWWPE8xvHyuS-CKZo7KL"
-current_fav_food = "Shawarma"
-current_fav_album = "Baby Keem - The Melodic Blue"
-current_fav_song = "Lil Uzi - FOR FUN"
-```
-
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=numinousmuses&show_icons=true&theme=radical) 
-
-![github stats](https://github-readme-stats.vercel.app/api?username=numinousmuses&show_icons=true&theme=radical)
-
-
 
 <!---
 numinousmuses/numinousmuses is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
