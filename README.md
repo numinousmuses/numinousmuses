@@ -139,7 +139,7 @@ ________________________¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶__________
 _______________________¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶__________
 """
 
-fav sports = [ "Soccer" , "Basketball" , "Track" ]
+fav_athletics = [ "Soccer" , "Basketball" , "Track" , "weighted calisthenics"]
 
 current_fav_food = "Shawarma"
 
