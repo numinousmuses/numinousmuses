@@ -4,7 +4,7 @@
 - 👀 interested in anything robotics, AI, or applied science
 - 🌱 currently learning Polygon and Computational Neuroscience
 - 💞️ looking to collaborate on anything machine learning, robotics, or IoT! Feel to check out my [deepnote](https://deepnote.com/@waterboy), [kaggle](https://www.kaggle.com/joshuaokolo/code), and [dagshub](https://dagshub.com/numinousmuses) as well.
-- 📫 reach me numinousmuses@gmail.com or [linkedin](https://www.linkedin.com/in/joshua-okolo/)
+- 📫 [reach me](numinousmuses@gmail.com) or [linkedin](https://www.linkedin.com/in/joshua-okolo/)
 - 🔭 I’m currently working on a Portable Robotic Nurse
 - ❓ Ask me about anything related to Tensorflow, Jupyter, and related technologies
 - ⚡ Fun fact: I am training to be ambidextrous
@@ -160,6 +160,30 @@ current_fav_food = "Shawarma"
 """
 current_fav_album = "Baby Keem - The Melodic Blue"
 current_fav_song = "Lil Uzi - FOR FUN"
+
+make_friends = "Let me know you! Reach out to me at numinousmuses@gmail.com"
+
+print("""
+________´$$$$`_____________________________,,,_
+_______´$$$$$$$`_________________________´$$$`
+________`$$$$$$$`______,,________,,_______´$$$$´
+_________`$$$$$$$`____´$$`_____´$$`____´$$$$$´
+__________`$$$$$$$`_´$$$$$`_´$$$$$`__´$$$$$$$´
+___________`$$$$$$$_$$$$$$$_$$$$$$$_´$$$$$$$´_
+____________`$$$$$$_$$$$$$$_$$$$$$$`´$$$$$$´_
+___,,,,,,______`$$$$$$_$$$$$$$_$$$$$$$_$$$$$$´_
+_´$$$$$`____`$$$$$$_$$$$$$$_$$$$$$$_$$$$$$´_
+´$$$$$$$$$`´$$$$$$$_$$$$$$$_$$$$$$$_$$$$$´_
+´$$$$$$$$$$$$$$$$$$_$$$$$$$_$$$$$$$_$$$$$´_
+___`$$$$$$$$$$$$$$$_$$$$$$$_$$$$$$_$$$$$$´_
+______`$$$$$$$$$$$$$_$$$$$__$$_$$$$$$_$$´_
+_______`$$$$$$$$$$$$,___,$$$$,_____,$$$$$´_
+_________`$$$$$$$$$$$$$$$$$$$$$$$$$$$$$´_
+__________`$$$$$$$$$$$$$$$$$$$$$$$$$$$´_
+____________`$$$$$$$$$$$$$$$$$$$$$$$$´_
+_______________`$$$$$$$$$$$$$$$$$$$$´_
+""")
+print(make_friends)
 ```
 
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=numinousmuses&show_icons=true&theme=radical) 
