@@ -18,6 +18,7 @@ interested_subjects = ["Robotics", "Computational Biology", "Biomedical Engineer
 current_challenge = "Reproducing 50 research articles as Kaggle  Notebooks"
 currently_learning = ["Computational Neuroscience", "Engineering", "Immunology"]
 link_to_certifications = "https://drive.google.com/drive/folders/174jLW0DQDmCBJWWPE8xvHyuS-CKZo7KL"
+hobbies = ["breakdance", "abstract art", "making and listening to music"]
 current_fav_food = "Shawarma"
 current_fav_album = "Baby Keem - The Melodic Blue"
 current_fav_song = "Lil Uzi - FOR FUN"
