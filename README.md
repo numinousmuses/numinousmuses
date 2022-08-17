@@ -16,7 +16,7 @@ code = ["Python", "C++", "Java", "Javascript", "HTML", "CSS", "Lua"]
 tools = ["Tensorflow", "Keras", "Pytorch", "Docker", "Edge Impulse", "Jupyter"]
 interested_subjects = ["Robotics", "Computational Biology", "Biomedical Engineering"]
 current_challenge = "Reproducing 50 research articles as Kaggle  Notebooks"
-currently_learning = ["Computational Neuroscience", "Engineering", "Immunology"]
+currently_learning = ["Computational Neuroscience", "Engineering", "Blockchain"]
 link_to_certifications = "https://drive.google.com/drive/folders/174jLW0DQDmCBJWWPE8xvHyuS-CKZo7KL"
 hobbies = ["breakdance", "abstract art", "making and listening to music"]
 fav_athletics = [ "Soccer" , "Basketball" , "Track" , "weighted calisthenics"]
@@ -130,9 +130,10 @@ print(make_friends)
 Icon Credit to [Github Profilinator](https://profilinator.rishav.dev/)
 
 ## Daily Random Image
-![image](https://user-images.githubusercontent.com/103385201/184786194-5776bc97-61cc-40d2-a648-d35a38b6318f.png)
 
-Image credit to [Charles Rondeau](https://pixabay.com/users/charlesrondeau-1458430/)
+![image](https://user-images.githubusercontent.com/103385201/185177419-cbd4c982-5f9a-44c5-b962-6cf372732f76.png)
+
+Image credit is anonymous
 
 
 
