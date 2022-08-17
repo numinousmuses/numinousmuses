@@ -129,7 +129,7 @@ print(make_friends)
 
 Icon Credit to [Github Profilinator](https://profilinator.rishav.dev/)
 
-## Daily Random Image
+## Weekly Random Image
 
 ![image](https://user-images.githubusercontent.com/103385201/185177419-cbd4c982-5f9a-44c5-b962-6cf372732f76.png)
 
