@@ -4,7 +4,7 @@
 - 👀 interested in anything robotics, AI, or applied science
 - 🌱 currently learning Polygon and Computational Neuroscience
 - 💞️ looking to collaborate on anything machine learning, robotics, or IoT! Feel to check out my [deepnote](https://deepnote.com/@waterboy), [kaggle](https://www.kaggle.com/joshuaokolo/code), and [dagshub](https://dagshub.com/numinousmuses) as well.
-- 📫 [reach me](numinousmuses@gmail.com) or [linkedin](https://www.linkedin.com/in/joshua-okolo/)
+- 📫 reach me: numinousmuses@gmail.com or [linkedin](https://www.linkedin.com/in/joshua-okolo/)
 - 🔭 I’m currently working on a Portable Robotic Nurse
 - ❓ Ask me about anything related to Tensorflow, Jupyter, and related technologies
 - ⚡ Fun fact: I am training to be ambidextrous
