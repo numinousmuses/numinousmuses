@@ -131,9 +131,9 @@ Icon Credit to [Github Profilinator](https://profilinator.rishav.dev/)
 
 ## Weekly Random Image
 
-![image](https://user-images.githubusercontent.com/103385201/187012589-0b566f43-49ad-4d2d-96ec-0cb4467feee4.png)
+![image](https://user-images.githubusercontent.com/103385201/193481837-09bf7f2a-4ecb-4743-8d96-11ba87af6cfa.png)
 
-Image credit to [Yuri B](https://pixabay.com/users/yuri_b-2216431/)
+Image credit to [Faizal Sugi](https://pixabay.com/users/463259-463259/)
 
 
 
