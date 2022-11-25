@@ -9,23 +9,7 @@
 - ❓ Ask me about anything related to Tensorflow, Jupyter, and related technologies
 - ⚡ Fun fact: I am training to be ambidextrous
 
-```python
-print("About Me")
-spoken_languages = ["English", "Spanish", "French", "Italian", "Japanese"]
-code = ["Python", "C++", "Java", "Javascript", "HTML", "CSS", "Lua"]
-tools = ["Tensorflow", "Keras", "Pytorch", "Docker", "Edge Impulse", "Jupyter"]
-interested_subjects = ["Robotics", "Computational Biology", "Biomedical Engineering"]
-current_challenge = "Reproducing 50 research articles as Kaggle  Notebooks"
-currently_learning = ["Computational Neuroscience", "Engineering", "Blockchain"]
-link_to_certifications = "https://drive.google.com/drive/folders/174jLW0DQDmCBJWWPE8xvHyuS-CKZo7KL"
-hobbies = ["breakdance", "abstract art", "making and listening to music"]
-fav_athletics = [ "Soccer" , "Basketball" , "Track" , "weighted calisthenics"]
-current_fav_food = "Shawarma"
-current_fav_album = "Baby Keem - The Melodic Blue"
-current_fav_song = "Lil Uzi - FOR FUN"
-make_friends = "Let me know you! Reach out to me at numinousmuses@gmail.com"
-
-print("""
+```
 ________´$$$$`______________________________,,,_
 _______´$$$$$$$`____________________________´$$$`
 ________`$$$$$$$`______,,________,,_______´$$$$´
@@ -45,7 +29,6 @@ __________`$$$$$$$$$$$$$$$$$$$$$$$$$$$´_
 ____________`$$$$$$$$$$$$$$$$$$$$$$$$´_
 _______________`$$$$$$$$$$$$$$$$$$$$´_
 """)
-print(make_friends)
 ```
 
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=numinousmuses&show_icons=true&theme=radical) 
